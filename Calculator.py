@@ -20,6 +20,7 @@ def call():
     print("Press 2 for Substraction")
     print("Press 3 for Multiplication")
     print("Press 4 for Division")
+    print("Press 5 For Calculating Trignometric Ratioes")
 def calling():
     print("Press 1 For Addition")
     print("Press 2 For Substraction")
